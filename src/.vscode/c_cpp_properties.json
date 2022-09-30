@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/cona/test_ws/devel/include/**",
+                "/home/cona/catkin_ws/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/home/cona/catkin_ws/src/ros_astra_camera/include/**",
+                "/home/cona/catkin_ws/src/drive/include/**",
+                "/home/cona/test_ws/src/lsm10_v2/include/**",
+                "/home/cona/catkin_ws/src/image_save/include/**",
+                "/home/cona/test_ws/src/usb_cam/include/**",
+                "/usr/include/**",
+                "/opt/ros/noetic/include"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

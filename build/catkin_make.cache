@@ -1,0 +1,2 @@
+ira_laser_tools:lsm10_v2:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/cona/lidar_merge/devel -DCMAKE_INSTALL_PREFIX=/home/cona/lidar_merge/install -G Unix Makefiles
